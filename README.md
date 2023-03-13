@@ -1,4 +1,14 @@
-### Hola a todos! 👋
+### Hola, soy Nazareno 👋
+
+ Soy desarrollador full-stack de Argentina
+
+Actualmente estoy buscando oportunidades laborales. Me encanta aprender y contribuir de todas las maneras posibles.
+
+Estoy trabajando en algunos de mis proyectos paralelos personales, ¡espero que los publiques pronto!
+
+Me puedes encontrar en: 
+[LinkedIn](https://www.linkedin.com/in/nazareno-covian/)
+<nazarenomcc@gmail.com>
 
 <!--
 **NazarenoCovian/NazarenoCovian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
