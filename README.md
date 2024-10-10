@@ -4,7 +4,7 @@
 
 Actualmente estoy buscando oportunidades laborales. Me encanta aprender y contribuir de todas las maneras posibles.
 
-Estoy trabajando en algunos de mis proyectos paralelos personales, ¡espero que los publiques pronto!
+Estoy trabajando en algunos de mis proyectos paralelos personales
 
 Me puedes encontrar en: 
 [LinkedIn](https://www.linkedin.com/in/nazareno-covian/)
